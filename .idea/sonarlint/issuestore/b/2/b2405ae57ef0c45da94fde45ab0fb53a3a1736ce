@@ -1,0 +1,10 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÀÙ˜úùÿÿÿÿ8ä…°êâ1J$38189355-8595-478c-a327-d2b3bd108f77
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(µ‹¯¿şÿÿÿÿ8é…°êâ1J$1f7efda6-64a0-4512-b9b1-0abb8c5dc3a8
+~	java:S125"<This block of commented-out lines of code should be removed.(±èŠó8é…°êâ1J$131165bb-d339-4f68-97af-0c5083f885c7
+m	java:S106"+Replace this use of System.out by a logger.(Ğ¡æ×8î…°êâ1J$311b90c6-4a6f-416e-a459-9bae0d889026
+m	java:S106"+Replace this use of System.out by a logger.(Ä¿ªÔ8î…°êâ1J$a0afc5c4-0ad5-46d8-9661-56334366a7c8
+†
+java:S1128"DRemove this unused import 'org.openqa.selenium.chrome.ChromeDriver'.(†È8ï…°êâ1J$e1bfd0aa-4a5a-49d8-bf2d-4199be621e40
+
+java:S1128"FRemove this unused import 'org.openqa.selenium.firefox.FirefoxDriver'.(Úª ÿÿÿÿÿ8ï…°êâ1J$d47733b1-d62a-4771-84a4-5e9272ba5894

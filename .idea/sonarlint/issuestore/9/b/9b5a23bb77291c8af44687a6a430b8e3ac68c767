@@ -1,0 +1,9 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÀÙ˜úùÿÿÿÿ8ãÜã1J$fd98d63f-64b0-46e2-8934-95c2725db9e6
+r	java:S106"+Replace this use of System.out by a logger.(ºÄƒàıÿÿÿÿ8ôÜã1J$75846331-ffff-4e9c-9494-0c36d874ff78
+m	java:S106"+Replace this use of System.out by a logger.(»ÿ±ª8õÜã1J$3b53cc7b-a33f-46bd-a349-36706385504e
+ƒ
+java:S1128";Remove this unused import 'org.openqa.selenium.WebElement'.(‰ïµ”şÿÿÿÿ8öÜã1J$b2b3ae93-d906-48c8-b1b0-ccad05067cbf
+q
+java:S1128
+".Remove this unused import 'org.testng.Assert'.(Ø£ÿ§8öÜã1J$ee8220a1-333d-4220-a645-8812dba60916
